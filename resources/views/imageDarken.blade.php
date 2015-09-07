@@ -1,0 +1,1 @@
+<div class="darkenImage"><div class="imageLike">Like</div><div class="imageComment">Comment</div></div>
